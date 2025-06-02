@@ -31,7 +31,7 @@ First you need to install Docker Engine. Follow the Docker instructions here for
 ## Autoinstallation of Simple Container System
 Once you have downloaded Docker, download the repository folder. You can clone the repository from the command line or downloading fom the GitHub website.
 ```
-git clone samuelrollon/Simple-Container-System-SCS
+git clone xxxxxx/Simple-Container-System-SCS
 ```
 
 Then go to `scs-utils` folder under the root directory of the project.
